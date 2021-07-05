@@ -168,8 +168,8 @@ nav {
     display: flex;
     width: 1160px;
     margin-left: 7%;
-    border-radius: 10px;
     background-color: #fff;
+    border-left: 8px #ff8800 solid;
     text-align: center;
     box-shadow: 0 0 10px 2px rgba(51, 51, 51, 0.335);
 }
